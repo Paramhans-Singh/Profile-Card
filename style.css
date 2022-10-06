@@ -30,8 +30,8 @@
 }
 
 .card img{
-    width: 140px;
-    border-radius: 50%;
+    width: 100px;
+    border-radius: 40%;
     font-weight: 600;
     margin-top: 20px;
 }
